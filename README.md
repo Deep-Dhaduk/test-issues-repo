@@ -4,7 +4,7 @@ A comprehensive service that wraps the GitHub REST API for Issues with webhook h
 
 ## 📋 Assignment Requirements & Team Division
 
-### **Nihar Patel - Core Issues API & GitHub Integration**
+### **Nihar Patel (019158958) - Core Issues API & GitHub Integration**
 
 **Focus: Issues CRUD, GitHub API, Error Handling, OpenAPI Contract**
 
@@ -32,7 +32,7 @@ A comprehensive service that wraps the GitHub REST API for Issues with webhook h
 
 ---
 
-### **Kalhar Patel - Comments API & Utilities**
+### **Kalhar Patel (019140511) - Comments API & Utilities**
 
 **Focus: Comments, Pagination, Health Monitoring, TypeScript**
 
@@ -57,7 +57,7 @@ A comprehensive service that wraps the GitHub REST API for Issues with webhook h
 
 ---
 
-### **Deep Dhaduk - Webhooks & Security**
+### **Deep Dhaduk (018317078) - Webhooks & Security**
 
 **Focus: Webhook Processing, Event Storage, Security, Monitoring**
 
@@ -791,3 +791,4 @@ For issues and questions:
 - Comprehensive test suite
 - Docker support
 - Rate limiting and error handling
+
